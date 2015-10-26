@@ -1,1 +1,6 @@
 Dit valt er nog te doen:
+	-	Invoer station huidig			Anthony
+	-	Genereren lijst traject			Victor
+	-	Maken lijst met tijden			Victor
+	-	Sorteren op tijd				
+	-	Output geven van lijst
